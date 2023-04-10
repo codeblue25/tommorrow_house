@@ -1,7 +1,7 @@
 {
   "name": "tommorrow_house",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sass/SCSS를 활용하여 UI 개발하기",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
